@@ -4,9 +4,9 @@
   "package": "org.example.example.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "DisplayMixin"
   ],
   "client": [
-    "TitleScreenMixin"
   ],
   "injectors": {
     "defaultRequire": 1
