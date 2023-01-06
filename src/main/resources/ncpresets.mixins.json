@@ -1,10 +1,10 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "org.example.example.mixin",
+  "package": "io.github.maheevil.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
-    "DisplayMixin"
+    "LWJGLDisplayMixin"
   ],
   "client": [
   ],

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "example-mod",
+  "id": "ncpresets",
   "version": "${version}",
 
-  "name": "example mod",
+  "name": "NoColourProfileResets",
   "description": "enter a description here",
   "authors": [
     "YourNameHere"
@@ -12,7 +12,7 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/example/icon.png",
+  "icon": "assets/ncpresets/icon.png",
 
   "environment": "*",
   "entrypoints": {
@@ -21,7 +21,7 @@
     ]
   },
   "mixins": [
-    "example.mixins.json"
+    "ncpresets.mixins.json"
   ],
 
   "depends": {
